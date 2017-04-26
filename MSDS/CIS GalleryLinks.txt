@@ -1,0 +1,4 @@
+Any experiment I do on Azure ML that is published on my gallery will be added here.
+
+FootBallML project AzureML API experiment.
+https://gallery.cortanaintelligence.com/Experiment/Experiment-for-FootballML

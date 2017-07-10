@@ -1,6 +1,6 @@
 package recfun
 
-object Main {20000000020002000000000202000020020202002002
+object Main {
   def main(args: Array[String]) {
     println("Pascal's Triangle")
     for (row <- 0 to 10) {
